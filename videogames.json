@@ -1,0 +1,167 @@
+[
+  {
+    "ID": "CODX01",
+    "BRAND": "Call of Duty",
+    "PRODUCTNAME": "Call of Duty - Infinite Warfare",
+    "GRAPHICNAME": "infinitewarfare.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Call of Duty"
+  },
+  {
+    "ID": "CODX02",
+    "BRAND": "Call of Duty",
+    "PRODUCTNAME": "Call of Duty - Black Ops 3",
+    "GRAPHICNAME": "blackops.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "21",
+    "QTNONBACKORDER": "540",
+    "DESCRIPTION": "FPS - Call of Duty Black Ops 3"
+  },
+  {
+    "ID": "CODX03",
+    "BRAND": "Call of Duty",
+    "PRODUCTNAME": "Call of Duty - Modern Warfare",
+    "GRAPHICNAME": "modernwarfare.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "112",
+    "QTNONBACKORDER": "430",
+    "DESCRIPTION": "FPS - Call of Duty - Modern Warfare"
+  },
+  {
+    "ID": "CODX04",
+    "BRAND": "Call of Duty",
+    "PRODUCTNAME": "Call of Duty - Cold War",
+    "GRAPHICNAME": "coldwar.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Call of Duty - Cold War"
+  },
+  {
+    "ID": "CODX05",
+    "BRAND": "Call of Duty",
+    "PRODUCTNAME": "Call of Duty - World War 2",
+    "GRAPHICNAME": "worldwar2.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Call of Duty - World War 2"
+  },
+  {
+    "ID": "BFX01",
+    "BRAND": "Battlefield",
+    "PRODUCTNAME": "Battlefield - Bad Company 2",
+    "GRAPHICNAME": "badcompany.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Battleifled - Bad Company 2"
+  },
+  {
+    "ID": "BFX02",
+    "BRAND": "Battlefield",
+    "PRODUCTNAME": "Battlefield 3",
+    "GRAPHICNAME": "bf3.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Battleifled 3"
+  },
+  {
+    "ID": "BFX03",
+    "BRAND": "Battlefield",
+    "PRODUCTNAME": "Battlefield 4",
+    "GRAPHICNAME": "bf4.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Battleifled 4"
+  },
+  {
+    "ID": "BFX04",
+    "BRAND": "Battlefield",
+    "PRODUCTNAME": "Battlefield 1",
+    "GRAPHICNAME": "bf1.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Battleifled 1"
+  },
+  {
+    "ID": "BFX05",
+    "BRAND": "Battlefield",
+    "PRODUCTNAME": "Battlefield 2042",
+    "GRAPHICNAME": "bf2042.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Battleifled 2042"
+  },
+  {
+    "ID": "HLOX01",
+    "BRAND": "Halo",
+    "PRODUCTNAME": "Halo",
+    "GRAPHICNAME": "halo.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Halo"
+  },
+  {
+    "ID": "HLOX02",
+    "BRAND": "Halo",
+    "PRODUCTNAME": "Halo 2",
+    "GRAPHICNAME": "halo2.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Halo 2"
+  },
+  {
+    "ID": "HLOX03",
+    "BRAND": "Halo 3",
+    "PRODUCTNAME": "Halo",
+    "GRAPHICNAME": "halo3.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Halo 3"
+  },
+  {
+    "ID": "HLOX04",
+    "BRAND": "Halo",
+    "PRODUCTNAME": "Halo 4",
+    "GRAPHICNAME": "halo4.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Halo 4"
+  },
+  {
+    "ID": "HLOX05",
+    "BRAND": "Halo",
+    "PRODUCTNAME": "Halo 5",
+    "GRAPHICNAME": "halo5.jpg",
+    "COSTPRICE": "79.99",
+    "MSRP": "79.99",
+    "QTYONHAND": "2",
+    "QTNONBACKORDER": "40",
+    "DESCRIPTION": "FPS - Halo 5"
+  }
+]
